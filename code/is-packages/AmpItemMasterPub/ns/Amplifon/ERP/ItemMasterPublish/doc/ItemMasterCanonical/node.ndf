@@ -207,8 +207,8 @@
             <value name="primitiveType">4</value>
             <value name="lexRep">0</value>
           </record>
-          <record name="totalDigits" javaclass="com.wm.util.Values">
-            <record name="FacetTDCValue" javaclass="com.wm.util.Values">
+          <record name="fractionDigits" javaclass="com.wm.util.Values">
+            <record name="FacetFDCValue" javaclass="com.wm.util.Values">
               <value name="cDecimalValue">2</value>
             </record>
             <value name="facetFixed">false</value>
